@@ -204,7 +204,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
   not_found:
     page_not_found: "找不到網頁"
 
-  diplomat_suggestion:
+  diplomat_suggestion: “給外交官的建議”
     title: "幫助我們翻譯CodeCombat" # This shows up when a player switches to a non-English language using the language selector.
     sub_heading: "我們需要您的語言技能"
     pitch_body: "我們開發了CodeCombat的英文版，但是現在我們的玩家遍佈全球。很多人想玩中文版的，卻不會說英文，所以如果您中英文都會，請考慮一下參加我們的翻譯工作，幫忙把 CodeCombat 網站還有所有的關卡翻譯成中文（繁體）。"
@@ -212,7 +212,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     learn_more: "關於成為外交官"
     subscribe_as_diplomat: "註冊成為外交官"
 
-  play:
+  play: "開始遊戲"
 #    title: "Play CodeCombat Levels - Learn Python, JavaScript, and HTML"
 #    meta_description: "Learn programming with a coding game for beginners. Learn Python or JavaScript as you solve mazes, make your own games, and level up. Challenge your friends in multiplayer arena levels!"
 #    level_title: "__level__ - Learn to Code in Python, JavaScript, HTML"
@@ -267,7 +267,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     teacher_button: "老師專用功能"
 #    get_more_codecombat: "Get More CodeCombat"
 
-  code:
+  code: 
     if: "若是" # Keywords--these translations show up on hover, so please translate them all, even if it's kind of long. (In the code editor, they will still be in English.)
     else: "否則"
     elif: "否則若是"
@@ -325,7 +325,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     placeholder: "Email地址"
     title: "做得不錯，同學"
 
-  login:
+  login: “登入”
     sign_up: "註冊"
     email_or_username: "輸入Email帳號 或是 使用者名稱"
     log_in: "登入"
@@ -337,7 +337,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     sign_in_with_gplus: "使用 Google+ 登入"
     signup_switch: "建立一個帳號"
 
-  signup:
+  signup: “註冊”
     complete_subscription: "完成訂閱"
     create_student_header: "建立學生帳號"
     create_teacher_header: "建立教師帳號"
@@ -419,12 +419,12 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
 #    eu_confirmation_student: "If you are not sure, ask your teacher."
 #    eu_confirmation_individual: "If you do not want us to store your data on US servers, you can always keep playing anonymously without saving your code."
 
-  recover:
+  recover: “復原”
     recover_account_title: "復原帳號"
     send_password: "送出新密碼"
     recovery_sent: "密碼重置的信件已寄出"
 
-  items:
+  items: “項目”
     primary: "主手裝備"
     secondary: "副手裝備"
     armor: "裝甲"
@@ -768,7 +768,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
 #    future_eng_4: "Amazon Future Engineer"
 #    future_eng_5: "program which creates learning and work opportunities for all K-12 students in the United States who wish to pursue computer science."
 
-  play_game_dev_level:
+  play_game_dev_level: “遊戲級數”
     created_by: "由{{name}}創建"
 #    created_during_hoc: "Created during Hour of Code"
     restart: "重置關卡"
@@ -783,7 +783,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
 #    goal_collect: "Collect all the items."
 #    goal_collect_amount: "Collect __amount__ items."
 
-  game_menu:
+  game_menu: “遊戲選單”
     inventory_tab: "道具欄"
     save_load_tab: "儲存/載入"
     options_tab: "選項"
@@ -799,7 +799,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     multiplayer_caption: "跟朋友一起玩！"
     auth_caption: "儲存進度"
 
-  leaderboard:
+  leaderboard: “排行榜”
     view_other_solutions: "查看其他解法"
     scores: "分數"
     top_players: "最高玩家在"
@@ -817,7 +817,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
 #    code_length: "Lines of Code"
 #    score_display: "__scoreType__: __score__"
 
-  inventory:
+  inventory: “戰備品”
     equipped_item: "已裝備"
     required_purchase_title: "必要的"
     available_item: "可使用的裝備"
@@ -832,7 +832,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
 #    ranger_only: "Ranger Only"
 #    wizard_only: "Wizard Only"
 
-  buy_gems:
+  buy_gems: “購買寶石”
     few_gems: "一些寶石"
     pile_gems: "一堆寶石"
     chest_gems: "一箱寶石"
@@ -1160,7 +1160,7 @@ module.exports = nativeDescription: "繁體中文", englishDescription: "Chinese
     previous: "上一個"
     location_title: "我們位於城鎮 SF："
 
-  teachers:
+  teachers: “師資群”
     licenses_needed: "授權許可"
 
 #  special_offer:
